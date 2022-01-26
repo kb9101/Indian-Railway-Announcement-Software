@@ -1,4 +1,4 @@
-# IndianRailwayAnnouncementSoftware
+# Indian-Railway-Announcement-Software
 This is an Indian Railway Announcement Software
 which can automate the process of announcement upto 80%
 if we have to information about the trains in proper excel form.
